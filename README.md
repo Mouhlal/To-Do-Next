@@ -28,8 +28,8 @@ Ce projet est une application de gestion de tâches (Todo List) développée ave
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/todo-nextjs-jsonserver.git
-cd todo-nextjs-jsonserver
+git clone https://github.com/votre-utilisateur/todo-list.git
+cd todo-list
 ```
 
 2. Installer les dépendances :
