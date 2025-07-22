@@ -28,7 +28,7 @@ Ce projet est une application de gestion de tâches (Todo List) développée ave
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/todo-list.git
+git clone https://github.com/Mouhlal/To-Do-Next.git
 cd todo-list
 ```
 
